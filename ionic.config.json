@@ -1,0 +1,7 @@
+{
+  "name": "Probando-IONIC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
